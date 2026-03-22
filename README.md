@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Pratyush Mondal, a CSE(Data Science) Student at The Neotia University.
 
 <!--
 **Pratyush-Mondal-55/pratyush-mondal-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
